@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless"
+    "category": "misc",
+    "ingredients": [
+        "minecraft:piston",
+        "minecraft:honeycomb"
+    ],
+    "result": {
+        "id": "minecraft:sticky_piston",
+        "count": 1
+    }
+}
