@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "iDi",
+        "DDD",
+        "iDi"
+    ],
+    "key": {
+        "i": "minecraft:iron_ingot",
+        "D": "minecraft:deepslate"
+    },
+    "result": {
+        "id": "minecraft:reinforced_deepslate",
+        "count": 1
+    }
+}

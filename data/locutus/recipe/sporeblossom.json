@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        " # ",
+        "#B#",
+        " # "
+    ],
+    "key": {
+        "#": "minecraft:pink_dye",
+        "B": "minecraft:big_dripleaf"
+    },
+    "result": {
+        "id": "minecraft:spore_blossom",
+        "count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc"
+  ],
+  "key": {
+    "a": "minecraft:string",
+    "b": "minecraft:paper",
+    "c": "minecraft:black_dye"
+  },
+  "result": {
+    "id": "minecraft:name_tag",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glowstone_dust",
+    "minecraft:black_dye"
+  ],
+  "result": {
+    "id": "minecraft:glow_ink_sac",
+    "count": 1
+  }
+}

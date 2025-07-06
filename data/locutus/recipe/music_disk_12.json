@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:honeycomb",
+    "b": "minecraft:clay_ball",
+    "c": "minecraft:blue_dye"
+  },
+  "result": {
+    "id": "minecraft:music_disc_wait",
+    "count": 1
+  }
+}

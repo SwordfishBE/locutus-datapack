@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "bb",
+    "bb"
+  ],
+  "key": {
+    "a": "minecraft:wheat_seeds",
+    "b": "minecraft:dirt"
+  },
+  "result": {
+    "id": "minecraft:grass_block",
+    "count": 4
+  }
+}

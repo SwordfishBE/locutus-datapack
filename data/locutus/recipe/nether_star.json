@@ -1,0 +1,17 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "###",
+        "#W#",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:coal_block",
+        "W": "minecraft:wither_skeleton_skull"
+    },
+    "result": {
+        "id": "minecraft:nether_star",
+        "count": 1
+    }
+}

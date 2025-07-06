@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "bb",
+    "bb"
+  ],
+  "key": {
+    "a": "minecraft:warped_fungus",
+    "b": "minecraft:netherrack"
+  },
+  "result": {
+    "id": "minecraft:warped_nylium",
+    "count": 4
+  }
+}

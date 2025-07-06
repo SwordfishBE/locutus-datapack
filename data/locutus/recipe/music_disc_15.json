@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:honeycomb",
+    "b": "minecraft:clay_ball",
+    "c": "minecraft:brown_dye"
+  },
+  "result": {
+    "id": "minecraft:music_disc_pigstep",
+    "count": 1
+  }
+}

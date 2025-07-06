@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:bone_meal"
+  },
+  "result": {
+    "id": "minecraft:bone",
+    "count": 1
+  }
+}

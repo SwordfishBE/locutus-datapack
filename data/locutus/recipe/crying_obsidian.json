@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "bab",
+    "aba"
+  ],
+  "key": {
+    "a": "minecraft:ghast_tear",
+    "b": "minecraft:obsidian"
+  },
+  "result": {
+    "id": "minecraft:crying_obsidian",
+    "count": 4
+  }
+}

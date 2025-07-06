@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": "#minecraft:planks",
+    "b": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "minecraft:jukebox",
+    "count": 1
+  }
+}

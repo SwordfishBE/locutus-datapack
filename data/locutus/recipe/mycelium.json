@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "bb",
+    "bb"
+  ],
+  "key": {
+    "a": "minecraft:red_mushroom",
+    "b": "minecraft:dirt"
+  },
+  "result": {
+    "id": "minecraft:mycelium",
+    "count": 4
+  }
+}

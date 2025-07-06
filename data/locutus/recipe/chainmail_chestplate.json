@@ -1,0 +1,16 @@
+﻿{
+    "type": "minecraft:crafting_shaped",
+	"category": "combat",
+    "pattern": [
+        "# #",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": "minecraft:iron_nugget"
+    },
+    "result": {
+        "id": "minecraft:chainmail_chestplate",
+        "count": 1
+    }
+}
