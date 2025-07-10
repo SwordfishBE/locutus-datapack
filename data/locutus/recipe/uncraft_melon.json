@@ -1,15 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "#"
-  ],
-  "key": {
-    "#": {
-      "item": "minecraft:melon"
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": "minecraft:melon"
+    },
+    "result": {
+        "id": "minecraft:melon_slice",
+        "count": 9
     }
-  },
-  "result": {
-    "count": 9,
-    "id": "minecraft:melon_slice"
-  }
 }
