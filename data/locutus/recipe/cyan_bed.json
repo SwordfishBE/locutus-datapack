@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:beds",
+      "count": 1
+    },
+    {
+      "item": "minecraft:cyan_dye",
+      "count": 1
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:cyan_bed"
+  }
+}
