@@ -1,7 +1,9 @@
 ﻿{
   "pack": {
-    "min_format": 69,
-    "max_format": 88,
+		"supported_formats": {
+			"min_inclusive": 48,
+			"max_inclusive": 88
+		},
     "description": "§4Locutus Crafting Recipes v2.6.2"
   }
 }
