@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " #",
+        "P "
+    ],
+    "key": {
+        "#": "minecraft:copper_nugget",
+        "P": "minecraft:paper"
+    },
+    "result": {
+        "id": "minecraft:name_tag",
+        "count": 1
+    },
+    "group": "misc"
+}
